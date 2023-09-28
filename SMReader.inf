@@ -1,0 +1,34 @@
+
+[Defines]
+  INF_VERSION                    = 0x00010005
+  BASE_NAME                      = SMReader
+  FILE_GUID                      = 6987936E-ED34-44db-AE97-1FA5E4ED2116
+  MODULE_TYPE                    = UEFI_APPLICATION
+  VERSION_STRING                 = 1.0
+  ENTRY_POINT                    = UefiMain
+  
+[Sources]
+  SMReader.c
+  PrintSmbios.c
+  
+[Packages]
+  MdePkg/MdePkg.dec
+  MdeModulePkg/MdeModulePkg.dec
+  EmulatorPkg/EmulatorPkg.dec
+
+[LibraryClasses]
+  UefiApplicationEntryPoint
+  SmbiosLib
+  UefiLib
+  PcdLib
+  BaseMemoryLib
+  
+[FeaturePcd]
+
+[Pcd]
+
+[Guids]
+  gEfiSmbiosTableGuid
+  gEfiSmbios3TableGuid
+[Protocols]
+  gEfiSmbiosProtocolGuid
