@@ -4,10 +4,10 @@ For practice C pointer operation.
 
 # SMBIOS
 
-https://en.wikipedia.org/wiki/System_Management_BIOS
+https://en.wikipedia.org/wiki/System_Management_BIOS <br>
 <img width="447" alt="30" src="https://github.com/jifbvhqp/SMBIOSReader/assets/49235533/17a49618-fbd1-46f9-a538-e7ab896570df">
 
-https://www.dmtf.org/standards/smbios
+https://www.dmtf.org/standards/smbios <br>
 <img width="462" alt="32" src="https://github.com/jifbvhqp/SMBIOSReader/assets/49235533/c0139fcf-a22d-418c-ad72-8b4359017b5f">
 
 # UEFI Spec
