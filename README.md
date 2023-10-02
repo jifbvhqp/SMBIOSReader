@@ -2,7 +2,7 @@
 
 For practice C pointer operation.
 
-# SMBIOS
+# What is SMBIOS?
 
 https://en.wikipedia.org/wiki/System_Management_BIOS <br>
 <img width="447" alt="30" src="https://github.com/jifbvhqp/SMBIOSReader/assets/49235533/17a49618-fbd1-46f9-a538-e7ab896570df">
