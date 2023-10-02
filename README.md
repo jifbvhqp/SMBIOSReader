@@ -3,7 +3,7 @@
 For practice C pointer operation.
 
 # How to excute?
-Boot into UEFI shell, type SMReader.
+Boot into UEFI shell, type SMReader to excute SMReader.efi.
 
 # What is SMBIOS?
 
