@@ -2,7 +2,13 @@
 
 For practice C pointer operation.
 
-Example Result:
+# UEFI Spec
+https://uefi.org/specifications
+
+# SMBIOS Spec
+https://www.dmtf.org/standards/smbios
+
+# Example Result
 
 Excute in Uefi Shell:
 ![379671342_765351308690125_6794305046409284750_n](https://github.com/jifbvhqp/SMBIOSReader/assets/49235533/97700f6a-3722-4ac1-8e48-24cacadb4d1f)
@@ -16,8 +22,4 @@ Type0 Structure:
 Type4 Structure:
 ![384513881_1988578041476564_7480092935458653819_n](https://github.com/jifbvhqp/SMBIOSReader/assets/49235533/a59488b8-1720-498e-bb68-8689fff7a355)
 
-# UEFI Spec
-https://uefi.org/specifications
 
-# SMBIOS Spec
-https://www.dmtf.org/standards/smbios
