@@ -2,6 +2,9 @@
 
 For practice C pointer operation.
 
+# How to excute?
+Boot into UEFI shell, type SMReader.
+
 # What is SMBIOS?
 
 https://en.wikipedia.org/wiki/System_Management_BIOS <br>
