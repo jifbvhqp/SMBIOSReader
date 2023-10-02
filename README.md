@@ -7,4 +7,4 @@ For practice C pointer operation.
 https://uefi.org/specifications
 
 # SMBIOS Spec
-https://www.dmtf.org/sites/default/files/standards/documents/DSP0134_3.3.0.pdf
+https://www.dmtf.org/standards/smbios
