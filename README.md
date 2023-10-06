@@ -1,6 +1,6 @@
 # SMBIOSReader
 
-For practice C pointer operation.
+For practicing structure & pointer of C language
 
 # How to excute?
 Boot into UEFI shell, type SMReader to excute SMReader.efi.
